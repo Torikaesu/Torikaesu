@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kazuki! </h1>
+<h1>Hi, I'm Kazuki! I'm a Tech enthusiast, and have some fun doing DIY projects! </h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
@@ -6,7 +6,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [https://youtu.be/g26NViwkO4w]
+- [Homelab Documentation](https://youtu.be/g26NViwkO4w)
 
 <h2> 🤳 Connect with me:</h2>
 
