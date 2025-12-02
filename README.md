@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- [Palo Alto NGFW Configuration]
+- [Palo Alto NGFW Configuration] in progress
 
 <h2>📺 Popular YouTube Videos</h2>
 
-
+- [https://youtu.be/g26NViwkO4w]
 
 <h2> 🤳 Connect with me:</h2>
 
