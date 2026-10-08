@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kazuki! I'm a Tech enthusiast, and have some fun doing DIY projects! </h1>
+<h1>Hi, I'm Kazuki! I'm a cybersecurity student! </h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
